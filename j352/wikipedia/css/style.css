@@ -1,0 +1,28 @@
+/*
+font-family: 'Big Shoulders Display', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Space Mono', monospace;
+
+*/
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color:#ff5733;
+    font-size: 35px; 
+}
+
+p{
+    color:#2C014A; 
+    font-size: 12px; font-style:italic;  
+}
+
+img{
+    width:50%;
+}
+
+h2{
+    color:#ff5733;  
+}
