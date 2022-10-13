@@ -1,12 +1,19 @@
 img{
-    width:50%
+    width:70%;
 }
 
 .about img{
-    box-shadow: 1.5cm 1.5cm #aaaaaa
-    
+    box-shadow: 1.5cm 1.5cm #aaaaaa;
+    float:left;
+    margin:4px;
 }
 
 h1{
-    text-align:right
+    float:right;
+    text-align:center;
+}
+
+p{
+    float:right;
+    text-align: center;
 }
