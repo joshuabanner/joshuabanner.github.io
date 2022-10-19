@@ -6,6 +6,8 @@ body{
 h1{
     color:black;
     text-align:center;
+    font-family: 'Big Shoulders Display';
+    font-size:250px
 }
 
 a{
@@ -19,4 +21,14 @@ nav a{
 
 a{
     font-size:100px;
+}
+
+p{
+    font-size:30px;
+    float:inline-start;
+}
+
+img{
+    float:left;
+    width: 700px;
 }
