@@ -10,6 +10,12 @@ body{
 .homepage{
     text-align:center;
     vertical-align:middle;
+    font-size:7em;
+    margin: 15% 0 0 0;
+}
+
+.homepage a{
+    line-height: 3;
 }
 
 a{
@@ -17,14 +23,20 @@ a{
     text-decoration: none;
 }
 
-nav a{
+/*nav a{
     font-size:100px;
 }
 
 a{
     font-size:100px;
-}
+}*/
 
 /* div{
     vertical-align:middle;
 }*/
+
+@media (max-width:450px){
+    .homepage a{
+        line-height: 3;
+    }
+}
