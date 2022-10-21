@@ -8,16 +8,16 @@ img{
 
 .about img{
     box-shadow: 1.5cm 1.5cm #aaaaaa;
-    float:left;
+   /* float:left;*/
     margin:4px;
 }
 
 h1{
-    float:right;
+  /*  float:right; */
     text-align:center;
 }
 
 p{
-    float:right;
+   /* float:right; */
     text-align:center;
 }
