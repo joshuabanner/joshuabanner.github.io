@@ -1,12 +1,61 @@
 body{
-    background-color:rgb(199, 197, 197);
+    background-color:#F4F5F8;
+    color:#152128;
+    
+}
+
+.spotify{
+    color:#1DB954;
 }
 
 h1{
     text-align:center;
+    font-size:5ex;
 }
 
 p{
+    font-size:15px; margin: 0 0 0 3%;
+}
+
+.box{
+    margin:20px 10px;
+}
+
+h3{
+    text-align:center;
+    font-size:20px;
+}
+
+h2{
+    font-size:30px;
+    text-align:center;
+    margin: 10%;
+}
+
+.big{
+    font-size:40px;
+}
+
+h4{
+    text-align:center;
     font-size:15px;
 }
 
+.container-fluid{
+    max-width:550px;background-color: #d8e5df; 
+    color:#152128;
+}
+
+.img-fluid{
+    width:100%;
+}
+
+h5{
+    text-align:center;
+    font-size:30px;
+}
+
+h6{
+    text-align:center;
+    font-size:25px;
+}
